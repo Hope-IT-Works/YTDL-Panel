@@ -1,2 +1,2 @@
 # YTDL-Panel
-web interface for youtube-dl / yt-dlp
+web interface for yt-dlp
