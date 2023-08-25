@@ -1,0 +1,20 @@
+{
+    "name": "hope-it-works/ytdl-panel",
+    "description": "web interface for youtube-dl / yt-dlp",
+    "type": "project",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "HopeItWorks\\YtdlPanel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tobias Meyer",
+            "email": "52013820+Hope-IT-Works@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "norkunas/youtube-dl-php": "dev-master"
+    }
+}
